@@ -1,4 +1,4 @@
-# Coefficients
+# Coefficients Assignment 1 
 
 Tranfer function in discrete time
 TF = d0*z / (z + c0)
